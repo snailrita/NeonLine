@@ -10,6 +10,5 @@ public class SceneLoader : MonoBehaviour
     void LoadFirstScene()
     {
         SceneManager.LoadScene(1);
-        
     }
 }
